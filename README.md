@@ -5,6 +5,8 @@
 #### *[Tutorial 4: Python Notebook](https://rawcdn.githack.com/CIMCB/MetabSimpleQcViz/d8a45ff5c86fea036acb9072c8727dc2141e343d/Tutorial4_Python.html)*
 #### *[Tutorial 4: R script Notebook](https://rawcdn.githack.com/CIMCB/MetabSimpleQcViz/d8a45ff5c86fea036acb9072c8727dc2141e343d/Tutorial4_Rscript.html)*
 
+<br />
+
 ## Open with Binders:
 #### Option 1. Launch the Jupyter Dashboard:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cimcb/MetabSimpleQcViz/master)
@@ -41,6 +43,8 @@
 6. Click the pencil icon to edit the README.md file
 7. Paste the text from Section 4 into the README.md file
 8. Press the green 'Commit changes' button
+
+<br />
 
 ## **Note: [the recommended environment files for R differ from Python](https://mybinder.readthedocs.io/en/latest/config_files.html).** 
 Requirements:
