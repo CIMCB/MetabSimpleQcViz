@@ -2,8 +2,8 @@
 <br />
 
 ## View the static html:
-#### *[Tutorial 4: Python Notebook](Tutorial4_Python.html)*
-#### *[Tutorial 4: R script Notebook](Tutorial4_Rscript.html)*
+#### *[Tutorial 4: Python Notebook](https://rawcdn.githack.com/CIMCB/MetabSimpleQcViz/d8a45ff5c86fea036acb9072c8727dc2141e343d/Tutorial4_Python.html)*
+#### *[Tutorial 4: R script Notebook](https://rawcdn.githack.com/CIMCB/MetabSimpleQcViz/d8a45ff5c86fea036acb9072c8727dc2141e343d/Tutorial4_Rscript.html)*
 
 ## Open with Binders:
 #### Option 1. Launch the Jupyter Dashboard:
